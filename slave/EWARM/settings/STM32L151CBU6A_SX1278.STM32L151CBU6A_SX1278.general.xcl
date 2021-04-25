@@ -1,0 +1,15 @@
+"F:\IAR Systems\Embedded Workbench 8.3\arm\bin\armproc.dll" 
+
+"F:\IAR Systems\Embedded Workbench 8.3\arm\bin\armstlink2.dll" 
+
+"Z:\projects\smart_tea_garden\slave\EWARM\STM32L151CBU6A_SX1278\Exe\STM32L151CBU6A_SX1278.out" 
+
+--plugin="F:\IAR Systems\Embedded Workbench 8.3\arm\bin\armbat.dll" 
+
+--device_macro="F:\IAR Systems\Embedded Workbench 8.3\arm\config\debugger\ST\STM32L1xx.dmac" 
+
+--flash_loader="F:\IAR Systems\Embedded Workbench 8.3\arm\config\flashloader\ST\FlashSTM32L15xxB.board" 
+
+
+
+
